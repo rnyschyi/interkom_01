@@ -1,0 +1,38 @@
+.container{
+    width: 800px;
+    margin: 0 auto;
+}
+
+ul.tabs{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+ul.tabs li{
+    background: none;
+    color: #06c1ff;
+    display: inline-block;
+    padding: 10px 15px;
+    cursor: pointer;
+    font-family: Roboto-Light, sans-serif;
+    font-size: 14px;
+    border-bottom: dotted #05b8f4;
+}
+
+ul.tabs li.current{
+    font-family: Roboto-Light, sans-serif;
+    font-size: 17px;
+    background: #ffffff;
+    color: #545a6e;
+    border-bottom: none;
+}
+
+.tab-content{
+    display: none;
+    background: #ffffff;
+    padding: 15px;
+}
+
+.tab-content.current{
+    display: inherit;
+}

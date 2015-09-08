@@ -46,3 +46,16 @@ table {
     border-collapse: collapse;
     border-spacing: 0;
 }
+a{
+     text-decoration: none;
+}
+a:visited{
+    font-family: Roboto-Light, sans-serif;
+    font-size: 14px;
+    color: #547994;
+    padding-left: 10px;
+    text-decoration: none;
+}
+.clear{
+    clear: both;
+}
