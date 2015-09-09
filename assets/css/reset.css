@@ -46,7 +46,7 @@ table {
     border-collapse: collapse;
     border-spacing: 0;
 }
-a{
+.sidebar a{
      text-decoration: none;
 }
 a:visited{
