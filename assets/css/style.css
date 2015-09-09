@@ -161,6 +161,10 @@ li{
     padding-left: 15px;
     float: left;
 }
+.vision a:hover{
+.hide display: block;
+}
+
 .sidebar ul li{
     line-height: 2;
 }
@@ -318,6 +322,12 @@ li{
     color: #011524;
     font-family: Roboto-Light, sans-serif;
     font-size: 15px;
+}
+.top-footer a:hover{
+    color: #001016;
+    font-family: Roboto-Light, sans-serif;
+    font-size: 15px;
+
 }
 .top-footer li{
     line-height: 2;
