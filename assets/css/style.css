@@ -288,6 +288,9 @@ li{
     padding-top: 10px;
     padding-right: 10px;
     text-align: left;
+    color: #234b6a;
+    font-family: Roboto-Light, sans-serif;
+    font-size: 14px;
 }
 .news-title{
     font-size: 18px;
@@ -295,4 +298,53 @@ li{
     color: rgb( 5, 184, 244 );
     line-height: 1.333;
     text-align: left;
+}
+.top-footer{
+    padding-top: 10px;
+    padding-left: 10px;
+    display: inline-block;
+    height: 200px;
+    background-color: #f2f6f9;
+}
+
+
+.top-footer ul {
+    display: inline-block;
+    float: left;
+    width: 23%;
+    padding-top: 10px;
+    padding-right: 10px;
+    text-align: left;
+    color: #011524;
+    font-family: Roboto-Light, sans-serif;
+    font-size: 15px;
+}
+.top-footer li{
+    line-height: 2;
+}
+.footer-social div{
+    display: inline;
+    float: left;
+}
+.footer-social img{
+    padding-left: 10px;
+    padding-right: 30px;
+}
+.social{
+    padding-right: 115px;
+}
+
+.bot-footer{
+    height: 50px;
+    background-color: #161b27;
+    color: #a8bdd0;
+    font-family: Roboto-Light, sans-serif;
+    font-size: 14px;
+    padding-top: 35px;
+    padding-left: 10px;
+}
+
+.otakoi{
+    float: right;
+    padding-right: 10px;
 }
